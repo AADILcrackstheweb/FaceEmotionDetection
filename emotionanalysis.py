@@ -31,5 +31,6 @@ print(captured_emotions_five)
 plt.imshow(test_image_five)
 dominant_emotion_five, emotion_score_five = emo_detector.top_emotion(test_image_five)
 print(dominant_emotion_five, emotion_score_five)
-
+print(dominant_emotion_five, emotion_score_five)
+print(dominant_emotion_five, emotion_score_five)
 
